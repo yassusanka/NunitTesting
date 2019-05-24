@@ -1,0 +1,11 @@
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.csprojAssemblyReference.cache
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.AssemblyInfoInputs.cache
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.AssemblyInfo.cs
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.deps.json
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.runtimeconfig.json
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.runtimeconfig.dev.json
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.dll
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\bin\Debug\netcoreapp2.2\SampleUnitTest.pdb
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.dll
+C:\Users\Y837868\RiderProjects\SampleUnitTest\SampleUnitTest\obj\Debug\netcoreapp2.2\SampleUnitTest.pdb
